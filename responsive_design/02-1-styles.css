@@ -176,6 +176,12 @@
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap;
   }
+
+  main img {
+    width: 100%;
+    height: auto;
+    
+  } 
   
   /*** 2. LAYOUT ***/
   
